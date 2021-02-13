@@ -25,4 +25,15 @@ The original data came from the cleavland data from the UCI Machine Learning Rep
 2. K-Nearest Neighbours classifier
 3. Random Forest classifier
 
-#### We get 
+#### Accuracy Scores of different models :
+
+
+* Logistic Regression: 0.89
+* KNM: 0.69
+* Random Forest : 0.84
+
+![alt text for screen readers](heart-disease-analysis/images/model-cmp.png
+"comparison of different models").
+
+
+
