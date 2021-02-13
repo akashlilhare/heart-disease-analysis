@@ -11,6 +11,6 @@ This notebook looks into using various Python-based machine learning and data sc
 
 The original data came from the cleavland data from the UCI Machine Learning Repository. https://www.kaggle.com/ronitf/heart-disease-uci
 
-![alt text for screen readers](heart-disease-analysis/images/sample.png
+![alt text for screen readers](images/sample.png
 "Text to show on mouseover").
 
