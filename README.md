@@ -19,4 +19,10 @@ The original data came from the cleavland data from the UCI Machine Learning Rep
 ![alt text for screen readers](images/corelation-matrix.png
 "sample data").
 
+### We've tried different machine learning model for prediction :
 
+1. Logistic Regression
+2. K-Nearest Neighbours classifier
+3. Random Forest classifier
+
+#### We get 
