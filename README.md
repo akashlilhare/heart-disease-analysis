@@ -5,8 +5,9 @@ This notebook looks into using various Python-based machine learning and data sc
 
 ### Proble Defenation :
 
-**Given clinical parameters about a patient, can we predict whether or not they have disease?**
+> **Given clinical parameters about a patient, can we predict whether or not they have disease?**
 
 ### Data source :
 
 The original data came from the cleavland data from the UCI Machine Learning Repository. https://www.kaggle.com/ronitf/heart-disease-uci
+
