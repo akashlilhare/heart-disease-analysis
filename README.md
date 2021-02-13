@@ -32,7 +32,7 @@ The original data came from the cleavland data from the UCI Machine Learning Rep
 * KNM: 0.69
 * Random Forest : 0.84
 
-![alt text for screen readers](heart-disease-analysis/images/model-cmp.png
+![alt text for screen readers](images/model-cmp.png
 "comparison of different models").
 
 
