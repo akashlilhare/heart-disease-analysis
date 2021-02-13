@@ -27,13 +27,23 @@ The original data came from the cleavland data from the UCI Machine Learning Rep
 
 #### Accuracy Scores of different models :
 
-
 * Logistic Regression: 0.89
 * KNM: 0.69
 * Random Forest : 0.84
 
-![alt text for screen readers](images/model-cmp.png
+![comparison of different models](images/model-cmp.png
 "comparison of different models").
 
+### As Accuracy Score of Logistic Regression Classifier is higher then the other two models hence we select Logistic Regression Classifier for prediction.
 
+#### After tuning Regression Classifier we get best parameters of :
+* 'C': 0.20433597178569418 
+* 'solver': 'liblinear
 
+#### Confision Matrix for Regression Classifier :
+![confusion matrix](images/confusion-matrix.png
+"confusion matrix").
+
+#### Other Matris for Regression Classifier :
+![all matrix](images/conclusion-table.png
+"confusion matrix").
