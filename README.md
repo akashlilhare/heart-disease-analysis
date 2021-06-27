@@ -1,3 +1,5 @@
+[embed]herat disease analysis.pdf[/embed]
+
 # heart-disease-analysis
 ## Predicting heart disease in a patient using machine learning.
 
