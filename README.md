@@ -1,4 +1,5 @@
-[embed]herat disease analysis.pdf[/embed]
+<a href="herat disease analysis.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
 
 # heart-disease-analysis
 ## Predicting heart disease in a patient using machine learning.
